@@ -76,7 +76,7 @@ de:
   layouts: 'Layouts'
   log_out: 'Ausloggen'
   logged_in_as: 'Eingeloggt als'
-  login: 'Benutzername'
+  login: 'Login'
   modify: 'Bearbeiten' 
   more: 'Mehr'
   name: 'Name'
@@ -175,7 +175,9 @@ de:
     last_updated: 'Zuletzt geändert'
   user: 'Benutzer'
   username: 'Benutzername'
-  users: 'Benutzer'      
+  users: 'Benutzer'
+  username_or_email: 'Benutzername oder E-Mail-Adresse'
+  remember_me_in_this_browser: 'Login merken'     
   users_controller:
     cannot_delete_self: 'Sie können sich nicht selbst löschen.'   
   version: 'Version'  
@@ -183,4 +185,6 @@ de:
   website: 'Website'
   welcome_controller:
     invalid_user: 'Ungültiger Benutzername oder Passwort.'   
-    logged_out: 'Sie sind jetzt ausgeloggt.'  
+    logged_out: 'Sie sind jetzt ausgeloggt.'
+  replace_file: 'Datei auswählen'
+  edit_asset: 'Asset editieren'
