@@ -188,3 +188,42 @@ de:
     logged_out: 'Sie sind jetzt ausgeloggt.'
   replace_file: 'Datei auswählen'
   edit_asset: 'Asset editieren'
+  
+  # Assets
+  paperclipped:
+    search: "Suchen"
+    types_to_find: "Dateitypen"
+    images: "Bilder"
+    others: "Andere"
+    audio: "Audio"
+    movies: "Movies"
+    asset: "Asset"
+    title: "Title"
+    type: "Typ"
+    no_assets: "Keine Assets vorhanden"
+    add_to_bucket: "In den Bucket"
+    remove_asset: "Asset löschen"
+    assets_explanation: 'Assets können auf den Server geladen und anschliessend in die Seiten integriert werden. Klick auf einen Asset-Name oben um es zu editieren oder klick auf <code>Remove Asset</code> um es zu löschen.'
+    bucket: "Bucket"
+    bucket_note: "Der Bucket beinhalted temporär gespeicherte Dateien."
+    empty_bucket: "Dein Bucket ist leer."
+    clear_bucket: "Bucket löschen"
+    asset_edit_title: "Asset editieren"
+    filename: "Dateiname"
+    replace_file: "Datei ersetzen"
+    add_asset_to_bucket: "In den Bucket"
+    regenerate_thumbnails: "Thumbnails regenerieren"
+    regenerate: "Regenerieren"
+    new_asset: "New Asset"
+    need_to_upload: "Die Bilder: "
+    images_automatically_created: " werden automatisch erstellt."
+    asset_upload_note: "Wählen Sie ein Asset aus um es auf den Server zu laden. Bleibt das Feld <code>Title</code> leer, wird der Dateiname (ohne Dateityp) autmoatisch erstellt. Klicken Sie auf <code>More</code> um eine Bildbeschreibung hinzuzufügen."
+    caption: "Bildbeschreibung"
+    choose_upload: "Wählen Sie eine Datei aus"
+    show_assets_bucket: "Zeige Bucket"
+    attached_assets: "Angehängte Assets"
+    upload: "Upload"
+    asset_note: "Angehängte Assets"
+    no_attached_assets: "Keine angehängten Assets"
+    save_and_upload: "Speichern und Uploaden"
+    search_assets: "Assets suchen"
